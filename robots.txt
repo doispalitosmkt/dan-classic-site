@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://danclassic.com.br/sitemap.xml
