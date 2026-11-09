@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0hwmgbbgh5hbd.css","style"]
+:HL["/_next/static/chunks/0yrr7rdmiezf2.css","style"]
 :HL["/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["/_next/static/chunks/3vts3do604lvc.css","style"]
 :HL["/brand/dc-monograma.svg","image",{"crossOrigin":"anonymous","fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"5uGajkczzfRjPakaqdLos","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"G7Qqdq6BRHk2Mt1ruyFfB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
