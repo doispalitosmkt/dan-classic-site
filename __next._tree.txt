@@ -1,9 +1,9 @@
-:HL["/_next/static/chunks/3fl1m-hhn26zx.css","style"]
+:HL["/_next/static/chunks/2p16gwp3r5km7.css","style"]
 :HL["/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/3vts3do604lvc.css","style"]
+:HL["/_next/static/chunks/073sxhgxaa84u.css","style"]
 :HL["/brand/dc-monograma-20261119.svg","image",{"crossOrigin":"anonymous","fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"NpHPOvY7q3KzVS5kIWjZl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"TDsW2rnj1yTHjD6CmQri4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
